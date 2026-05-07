@@ -1,0 +1,7 @@
+Flight Booking Confirmation
+bookingDate: 2026-05-07T17:30:44
+customerFirstName: John
+customerLastName: Doe
+flightNumber: AA448
+estDepartureTime: 2026-05-10T12:00:00
+estArrivalTime: 2026-05-10T19:00:00
